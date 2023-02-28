@@ -101,6 +101,7 @@
   .seccion-idiomas ul {
     list-style: none;
     margin-left: -35em;
+    margin-top: 2rem;
   }
 
   .seccion-otros {
@@ -126,6 +127,7 @@
   .seccion-otros ul {
     list-style: none;
     margin-left: -35em;
+    margin-top: 2rem;
   }
 
   .exp p {
