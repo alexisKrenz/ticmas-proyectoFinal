@@ -79,6 +79,7 @@
   .seccion-idiomas {
 
     display: flex;
+    justify-content: space-between;
     height: 100px;
     width: 50%;
     background-color: #349c53;
@@ -105,6 +106,7 @@
 
   .seccion-otros {
     display: flex;
+    justify-content: space-between;
     height: 100px;
     width: 50%;
     background-color: #2a44da;
